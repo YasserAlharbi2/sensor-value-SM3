@@ -22,7 +22,7 @@ https://yasseral-harbi.000webhostapp.com/GetSensorValue.php?sensor=1
 <br />
 <br />
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
-https://fahad438.github.io/Get-Value-sens-M3/
+https://yasseralharbi2.github.io/sensor-value-SM3/
 <br />
 # فديو توضيحي
 ![gif](https://user-images.githubusercontent.com/86566999/181157154-23794a69-e8d0-401a-946e-4d55ca0357a7.gif)
