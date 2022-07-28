@@ -25,7 +25,7 @@ https://yasseral-harbi.000webhostapp.com/GetSensorValue.php?sensor=1
 https://yasseralharbi2.github.io/sensor-value-SM3/
 <br />
 # فديو 
-
+![_YasserAlharbi2_sensor-value-SM3 وصفحة واحدة أخرى- الضيف  - Microsoft_ Edge_ 2022-07-28 22-43-10](https://user-images.githubusercontent.com/110176361/181624582-74d46a71-ac5e-4467-bdd9-60de633f8f47.gif)
 <br />
 # شرح للمهمه كاملة
 الجزء الاول من المهمه:
